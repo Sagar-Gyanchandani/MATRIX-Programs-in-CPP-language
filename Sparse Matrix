@@ -63,3 +63,22 @@ int main()
 	return 0;	
 }
  
+ 
+/* 
+OUTPUT:
+Enter row no, col no and its value
+0 0 1
+1 1 1
+2 2 1
+3 3 1
+4 4 1
+
+Sparse Matrix:
+1 0 0 0 0
+0 1 0 0 0
+0 0 1 0 0
+0 0 0 1 0
+0 0 0 0 1
+ 
+ */
+ 
